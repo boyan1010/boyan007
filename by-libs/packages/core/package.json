@@ -1,6 +1,6 @@
 {
   "name": "@boyan007/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "boyan <846184637@qq.com>",
   "homepage": "https://github.com/boyan1010/boyan007#readme",
@@ -17,12 +17,11 @@
     "type": "git",
     "url": "git+https://github.com/boyan1010/boyan007.git"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "bugs": {
     "url": "https://github.com/boyan1010/boyan007/issues"
   },
   "dependencies": {
-    "@boyan007/utils": "^1.0.0"
+    "@boyan007/utils": "^1.0.1"
   }
 }
