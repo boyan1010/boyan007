@@ -23,5 +23,6 @@
   },
   "dependencies": {
     "@boyan007/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "f79b7c1a3e7931e741ec782670a71a2e28e36755"
 }
