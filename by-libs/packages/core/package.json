@@ -1,6 +1,6 @@
 {
   "name": "@boyan007/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "boyan <846184637@qq.com>",
   "homepage": "https://github.com/boyan1010/boyan007#readme",
@@ -22,7 +22,7 @@
     "url": "https://github.com/boyan1010/boyan007/issues"
   },
   "dependencies": {
-    "@boyan007/utils": "^1.0.2"
+    "@boyan007/utils": "^1.0.3"
   },
   "gitHead": "908fc0f00437a025a50370024706029b930d99db"
 }
