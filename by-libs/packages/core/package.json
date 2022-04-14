@@ -1,0 +1,28 @@
+{
+  "name": "@boyan007/core",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "boyan <846184637@qq.com>",
+  "homepage": "https://github.com/boyan1010/boyan007#readme",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyan1010/boyan007.git"
+  },
+  "scripts": {
+  },
+  "bugs": {
+    "url": "https://github.com/boyan1010/boyan007/issues"
+  },
+  "dependencies": {
+    "@boyan007/utils": "^1.0.0"
+  }
+}
