@@ -16,6 +16,9 @@
   "devDependencies": {
     "lerna": "^4.0.0"
   },
+  "publishConfig": {
+    "registry": "http://127.0.0.1:4873"
+  },
   "dependencies": {
     "microbundle": "^0.14.2"
   }
